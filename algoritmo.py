@@ -9,6 +9,7 @@ def Main():
     while True:
 
         try:
+            os.system("cls")
             print("Você está no banco do Brasil!")
             print("Vocé é:")
             print("1. Cliente\n2. Administrador")
